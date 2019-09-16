@@ -6,3 +6,5 @@ En este proyecto se aprendió sobre:
 * Equal Height, Aspect Ratio Constraints.
 * Visual Formatting Language
 * Anchors
+
+![](Project6a.png)
